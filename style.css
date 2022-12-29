@@ -24,16 +24,3 @@ body{
 .green{ background-color:#81BC06; }
 .blue{ background-color:#05A6F0; }
 .yellow{ background-color:#FFBA08; }
-
-
-/*  --------------------------------- */
-
-.microsoft {
-	background-color: #f25022;
-	box-shadow: 
-			220px 0 0 0 #7fba00,
-			0 220px 0 0 #00a4ef,
-			220px 220px 0 0 #ffb900;
-	height: 200px;
-	width: 200px;
-}
